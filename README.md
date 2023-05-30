@@ -1,6 +1,6 @@
 # thesis
 
-**Packages Required: **
+**Packages Required:**
 - ros-kinetic-gmapping 
 - ros-kinetic-navigation
 - python-opencv
