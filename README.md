@@ -12,9 +12,10 @@
 - turtlebot3_msgs
 
 **Setup turtlebot and remote PC**
-  Remote PC : 
+
+  - Remote PC : 
     - roscore
-  Turtlebot :
+  - Turtlebot :
     - roslaunch turtlebot3_bringup turtlebot3_robot.launch
 
 
