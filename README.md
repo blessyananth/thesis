@@ -29,9 +29,10 @@
 **Wifi Localisation:**  
     
     - Collect
-      - On turtlebot : 
+      - On turtlebot : rosrun 
     - Localise (Remote PC)
-      - Run jupyter notebook
+      - Run jupyter notebook in rssi folder
+      
       
  **Particle filter**
  
