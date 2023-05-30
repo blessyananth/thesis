@@ -31,8 +31,7 @@
     - Collect
       - On turtlebot : 
     - Localise (Remote PC)
-      - Knn : 
-      - Wknn :
+      - Run jupyter notebook
       
  **Particle filter**
  
