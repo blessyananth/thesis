@@ -19,10 +19,11 @@
 
 
 **To run autonomous mapping:**
-    On remote PC:
-    - roslaunch turtlebot3_navigation move_base.launch
-    - roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=frontier_exploration
-    - roslaunch explore_lite explore.launch
+
+     - On remote PC:
+      - roslaunch turtlebot3_navigation move_base.launch
+      - roslaunch explore_lite explore.launch
+      - rosrun m-explore explore.py
 
 **Wifi Localisation:**  
     
