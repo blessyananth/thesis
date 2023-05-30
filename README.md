@@ -30,7 +30,7 @@
     
     - Collect
       - On turtlebot : rosrun 
-    - Localise (Remote PC)
+    - Preprocess and Localise (Remote PC)
       - Run jupyter notebook in rssi folder
       
       
